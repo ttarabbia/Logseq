@@ -2,7 +2,7 @@
 title: Transactional Collaboration
 ---
 
-## All organizations communicate transactions with their customers and [[supplier]]. These tie [[financial transactions]] to supply chain events.
+## All organizations communicate discrete transactions with their customers and [[supplier]]. These tie [[financial transactions]] to supply chain events.
 :PROPERTIES:
 :id: 5ff63478-5af3-4510-851f-4f60583dff76
 :END:
