@@ -16,7 +16,7 @@ title: SCPM
 :PROPERTIES:
 :heading: true
 :END:
-#### ((Transac))
+####
 ### [[Time-Series Collaboration]]
 :PROPERTIES:
 :heading: true
