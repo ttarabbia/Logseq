@@ -16,7 +16,13 @@ title: SCPM
 :PROPERTIES:
 :heading: true
 :END:
-#### All organizations pass transactions hich tie supply chain
+#### All organizations communicate transactions with their customers and suppliers. These tie financial transactions to supply chain events.
+#### Some examples:
+##### Purchase Orders
+##### Sales Orders
+##### Shipments
+##### RFQs
+#####
 ### [[Time-Series Collaboration]]
 :PROPERTIES:
 :heading: true
