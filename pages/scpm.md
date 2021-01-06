@@ -17,7 +17,7 @@ title: SCPM
 :heading: true
 :END:
 #### All organizations communicate transactions with their customers and suppliers. These tie financial transactions to supply chain events.
-#### Some examples:
+#### Typical transactions:
 ##### Purchase Orders
 ##### Sales Orders
 ##### Shipments
