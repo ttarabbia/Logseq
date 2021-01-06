@@ -28,6 +28,7 @@ title: SCPM
 ##### Purchase Authorizations
 ##### Receipts
 ##### Invoices
+##### Serial and Lot Numbers
 ####
 ### [[Time-Series Collaboration]]
 :PROPERTIES:
