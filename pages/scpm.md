@@ -9,4 +9,7 @@ title: SCPM
 ## These groups need the ability to communicate on transactions, using the [[Order Collaboration]] model, and time series, using the [[Data Measure]] model.
 ## These base components are then used to enable a variety of [[exception]] based processes
 ## Collaboration types
+:PROPERTIES:
+:heading: true
+:END:
 ###
