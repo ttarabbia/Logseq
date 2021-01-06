@@ -26,7 +26,8 @@ title: SCPM
 ##### Scheduling agreements
 ##### Purchase Authorizations
 ##### Receipts
-#####
+##### Invoices
+####
 ### [[Time-Series Collaboration]]
 :PROPERTIES:
 :heading: true
