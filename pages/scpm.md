@@ -16,7 +16,7 @@ title: SCPM
 :PROPERTIES:
 :heading: true
 :END:
-#### All organizations pass transactions which tie supply chain
+#### All organizations pass transactions hich tie supply chain
 ### [[Time-Series Collaboration]]
 :PROPERTIES:
 :heading: true
