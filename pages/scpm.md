@@ -17,6 +17,7 @@ title: SCPM
 :heading: true
 :END:
 #### All organizations communicate transactions with their customers and suppliers. These tie financial transactions to supply chain events.
+#### Dates and quantities are the bare minimum requirements for collaboration, yet often surrounding information like terms, context, splitting,
 #### Typical transactions:
 ##### Purchase Orders
 ##### Sales Orders
