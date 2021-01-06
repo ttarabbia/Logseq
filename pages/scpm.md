@@ -22,6 +22,10 @@ title: SCPM
 ##### Sales Orders
 ##### Shipments
 ##### RFQs
+##### Blanket orders and pulls
+##### Scheduling agreements
+##### Purchase Authorizations
+##### Receipts
 #####
 ### [[Time-Series Collaboration]]
 :PROPERTIES:
