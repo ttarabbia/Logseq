@@ -21,7 +21,7 @@ title: SCPM
 ##### Purchase Orders
 ##### Sales Orders
 ##### Shipments
-##### RFQs
+##### RFQs and Quotes
 ##### Blanket orders and pulls
 ##### Scheduling agreements
 ##### Purchase Authorizations
