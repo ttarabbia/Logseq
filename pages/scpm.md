@@ -12,11 +12,7 @@ title: SCPM
 :PROPERTIES:
 :heading: true
 :END:
-### [[Transactional Collaboration]]
-:PROPERTIES:
-:heading: true
-:END:
-#### {{{embed [[Transactional Collaboration]] }}}
+### {{{embed [[Transactional Collaboration]] }}}
 ####
 ####
 ### [[Time-Series Collaboration]]
