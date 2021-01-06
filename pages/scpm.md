@@ -16,7 +16,7 @@ title: SCPM
 :PROPERTIES:
 :heading: true
 :END:
-####
+#### Typically
 ### [[Time-Series Collaboration]]
 :PROPERTIES:
 :heading: true
